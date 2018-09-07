@@ -1,0 +1,8 @@
+﻿  MatchGame.cpp
+c:\users\administrator.182txlrmesy3dbw\documents\visual studio 2015\projects\assignment3\matchgame.cpp(41): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\administrator.182txlrmesy3dbw\documents\visual studio 2015\projects\assignment3\matchgame.cpp(147): warning C4018: '<': signed/unsigned mismatch
+c:\users\administrator.182txlrmesy3dbw\documents\visual studio 2015\projects\assignment3\stack.h(68): warning C4715: 'Stack<MatchCard>::peek': not all control paths return a value
+c:\users\administrator.182txlrmesy3dbw\documents\visual studio 2015\projects\assignment3\queue.h(80): warning C4715: 'Queue<MatchCard>::dequeue': not all control paths return a value
+c:\users\administrator.182txlrmesy3dbw\documents\visual studio 2015\projects\assignment3\stack.h(63): warning C4715: 'Stack<MatchCard>::pop': not all control paths return a value
+  Assignment3.vcxproj -> C:\Users\Administrator.182TXLRMESY3DBW\documents\visual studio 2015\Projects\Assignment3\Debug\Assignment3.exe
+  Assignment3.vcxproj -> C:\Users\Administrator.182TXLRMESY3DBW\documents\visual studio 2015\Projects\Assignment3\Debug\Assignment3.pdb (Full PDB)
